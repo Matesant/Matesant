@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Mateus Santos</h1>
 <h3 align="center">A alien learning C!</h3>
-<(img align="right" alt="Coding" width="400" src="[https://wifflegif.com/gifs/730998-pixel-jeff-pixel-art-gif](https://64.media.tumblr.com/668d105fc2701311bfcef33d2771a40e/370b02f259511df9-d6/s1280x1920/b22c8e6e834c0722cf2951aedfcb90bddfef8f87.gif)">
+<(img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/668d105fc2701311bfcef33d2771a40e/370b02f259511df9-d6/s1280x1920/b22c8e6e834c0722cf2951aedfcb90bddfef8f87.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matesant&label=Profile%20views&color=0e75b6&style=flat" alt="matesant" /> </p>
 
