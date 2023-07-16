@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Mateus Santos</h1>
 <h3 align="center">A alien learning C!</h3>
-<(img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/170412021733266950/1CD0513C34E143D362389DD0D9F2CC0B3BBB2123/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/170412021733266950/1CD0513C34E143D362389DD0D9F2CC0B3BBB2123/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matesant&label=Profile%20views&color=0e75b6&style=flat" alt="matesant" /> </p>
 
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matesant&show_icons=true&locale=en" alt="matesant" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matesant&" alt="matesant" /></p>
-
