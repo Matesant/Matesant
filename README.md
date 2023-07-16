@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mateussantos1528@hotmail.com**
 
-- 📄 Know about my experiences [Learning and improving at école 42!](Learning and improving at école 42!)
+- 📄 Know about my experiences [Learning and improving at école 42!]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
