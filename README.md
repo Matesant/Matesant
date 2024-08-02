@@ -3,13 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mateus Santos</h1>
 <h3 align="center">A alien learning C!</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=matesant&label=Profile%20views&color=0e75b6&style=flat" alt="matesant" />
-  <a href="https://twitter.com/@sirbosbo" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/@sirbosbo?logo=twitter&style=for-the-badge" alt="@sirbosbo" />
-  </a>
-</p>
 
+                                `Projects done at école 42`
 <div align="center">
   <a href="https://github.com/Matesant/42_libft" target="_blank">
     <img height="80" src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png" alt="Libft Badge">
