@@ -15,17 +15,7 @@
 
 - 📄 Know about my experiences [Learning and improving at école 42!]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/@sirbosbo" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sirbosbo" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/matesant" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matesant" height="30" width="40" />
-  </a>
-</p>
-
-<div align="center">
+- <div align="center">
   <a href="https://github.com/Matesant/42_libft" target="_blank">
     <img height="80" src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png">
   </a>
@@ -62,7 +52,15 @@
   </a>
 </div>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/@sirbosbo" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sirbosbo" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/matesant" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matesant" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
