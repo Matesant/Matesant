@@ -4,7 +4,9 @@
 <h3 align="center">A alien learning C!</h3>
 
 
-center {`Projects done at école 42`}
+<div align="center">
+  <h2>Projects done at école 42</h2>
+</div>
 <div align="center">
   <a href="https://github.com/Matesant/42_libft" target="_blank">
     <img height="80" src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png" alt="Libft Badge">
