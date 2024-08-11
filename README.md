@@ -42,6 +42,9 @@
   <a href="https://github.com/Matesant/Cub3d" target="_blank">
     <img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/cub3dm.png" alt="Cub3d Badge">
   </a>
+  <a href="https://github.com/Matesant/Cpp_42" target="_blank">
+    <img height="80" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png" alt="Cub3d Badge">
+  </a>
 </div>
 
 
