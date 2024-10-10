@@ -7,47 +7,21 @@
 <div align="center">
   <h2>Projects done at école 42</h2>
 </div>
+
 <div align="center">
-  <a href="https://github.com/Matesant/42_libft" target="_blank">
-    <img height="80" src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png" alt="Libft Badge">
-  </a>
-  <a href="https://github.com/Matesant/Get_next_line" target="_blank">
-    <img height="80" src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png" alt="Get Next Line Badge">
-  </a>
-  <a href="https://github.com/Matesant/Printf" target="_blank">
-    <img height="80" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="Printf Badge">
-  </a>
-  <a href="/42_born2beroot" target="_blank">
-    <img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/born2berootm.png" alt="Born2beroot Badge">
-  </a>
-  <a href="https://github.com/Matesant/So_long" target="_blank">
-    <img height="80" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png" alt="So Long Badge">
-  </a>
-  <a href="https://github.com/Matesant/minitalk" target="_blank">
-    <img height="80" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png" alt="Minitalk Badge">
-  </a>
-  <a href="https://github.com/Matesant/42Push_swap" target="_blank">
-    <img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/push_swapm.png" alt="Push Swap Badge">
-  </a>
-  <br>
-  <a href="https://github.com/Matesant/Minishell" target="_blank">
-    <img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/minishellm.png" alt="Minishell Badge">
-  </a>
-  <a href="https://github.com/Matesant/Philosophers" target="_blank">
-    <img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophersm.png" alt="Philosophers Badge">
-  </a>
-  <a href="/42_NetPractice" target="_blank">
-    <img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/netpracticem.png" alt="NetPractice Badge">
-  </a>
-  <a href="https://github.com/Matesant/Cub3d" target="_blank">
-    <img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/cub3dm.png" alt="Cub3d Badge">
-  </a>
-  <a href="https://github.com/Matesant/Cpp_42" target="_blank">
-    <img height="80" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png" alt="Cub3d Badge">
-  </a>
+<a href="https://github.com/Matesant/42_libft" target="_blank"><img height="80" src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png" alt="Libft Badge"></a>
+<a href="https://github.com/Matesant/Get_next_line" target="_blank"><img height="80" src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png" alt="Get Next Line Badge"></a>
+<a href="https://github.com/Matesant/Printf" target="_blank"><img height="80" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="Printf Badge"></a>
+<a href="/42_born2beroot" target="_blank"><img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/born2berootm.png" alt="Born2beroot Badge"></a>
+<a href="https://github.com/Matesant/So_long" target="_blank"><img height="80" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png" alt="So Long Badge"></a>
+<a href="https://github.com/Matesant/minitalk" target="_blank"><img height="80" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png" alt="Minitalk Badge"></a>
+<a href="https://github.com/Matesant/42Push_swap" target="_blank"><img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/push_swapm.png" alt="Push Swap Badge"></a>
+<a href="https://github.com/Matesant/Minishell" target="_blank"><img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/minishellm.png" alt="Minishell Badge"></a>
+<a href="https://github.com/Matesant/Philosophers" target="_blank"><img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophersm.png" alt="Philosophers Badge"></a>
+<a href="/42_NetPractice" target="_blank"><img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/netpracticem.png" alt="NetPractice Badge"></a>
+<a href="https://github.com/Matesant/Cub3d" target="_blank"><img height="80" src="https://github.com/byaliego/42-project-badges/raw/main/badges/cub3dm.png" alt="Cub3d Badge"></a>
+<a href="https://github.com/Matesant/Cpp_42" target="_blank"><img height="80" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png" alt="Cub3d Badge"></a>
 </div>
-
-
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/668d105fc2701311bfcef33d2771a40e/370b02f259511df9-d6/s1280x1920/b22c8e6e834c0722cf2951aedfcb90bddfef8f87.gif">
 
@@ -84,3 +58,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matesant" alt="GitHub Streak Stats" />
 </p>
+
